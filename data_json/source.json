@@ -1,0 +1,58 @@
+{
+  "RECORDS": [
+    {
+      "key": "bms",
+      "name": "业务管理系统",
+      "remark": "自动创建默认source",
+      "id": 1
+    },
+    {
+      "key": "sms",
+      "name": "短信服务",
+      "remark": "自动创建默认source",
+      "id": 2
+    },
+    {
+      "key": "worldtree",
+      "name": "微信服务",
+      "remark": "自动创建默认source",
+      "id": 3
+    },
+    {
+      "key": "business_center",
+      "name": "business center",
+      "remark": "自动创建默认source",
+      "id": 4
+    },
+    {
+      "key": "courier_app",
+      "name": "快递员app服务",
+      "remark": "自动创建默认source",
+      "id": 5
+    },
+    {
+      "key": "operation",
+      "name": "设备管理服务",
+      "remark": "自动创建默认source",
+      "id": 6
+    },
+    {
+      "key": "customer_service",
+      "name": "客服系统",
+      "remark": "自动创建默认source",
+      "id": 7
+    },
+    {
+      "key": "duty_service",
+      "name": "值守app服务",
+      "remark": "自动创建默认source",
+      "id": 8
+    },
+    {
+      "key": "terminal_service",
+      "name": "终端服务",
+      "remark": "自动创建默认source",
+      "id": 9
+    }
+  ]
+}

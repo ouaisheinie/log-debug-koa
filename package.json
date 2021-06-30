@@ -1,0 +1,25 @@
+{
+  "name": "koa-push",
+  "version": "1.0.0",
+  "description": "copy push_log object",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "zhangzeyi",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cheerio": "^1.0.0-rc.3",
+    "excel-export": "^0.5.1",
+    "glob": "7.1.6",
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-jwt": "^3.6.0",
+    "koa-router": "^8.0.8",
+    "koa2-cors": "^2.0.6",
+    "mongoose": "^5.9.5",
+    "nodemon": "^2.0.2"
+  }
+}
